@@ -1,0 +1,5 @@
+Docx <<https://github.com/python-openxml/python-docx>>
+Streamlit <<https://docs.streamlit.io/>>
+Docx2pdf <<https://pypi.org/project/docx2pdf/>>
+Matplotlib <<https://matplotlib.org/stable/index.html>>
+Pandas <<https://pandas.pydata.org/docs/>>
