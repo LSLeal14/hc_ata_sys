@@ -1,5 +1,5 @@
 streamlit
 python-docx
-python-docx2pdf
+docx2pdf
 pandas
 matplotlib
